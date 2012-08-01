@@ -2,18 +2,18 @@
 ----------------
 
 # Education
-## College (Date - Date
+##### College (Date - Date
 Major
-## High School (Date - Date)
+##### High School (Date - Date)
 
 # Work Experience
-## Job Title (Date - Date)
+##### Job Title (Date - Date)
 Description
 * Duty
 * Duty
 
 # Projects
-## [Project Name] (http://www.google.com)
+##### [Project Name] (http://www.google.com)
 Description
 * Feature
 * Feature
