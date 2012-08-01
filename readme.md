@@ -1,4 +1,4 @@
-# Brent Montague
+# [Brent Montague] (mailto:brent@bmontague.com)
 ----------------
 
 # Education
