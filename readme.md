@@ -15,7 +15,8 @@
 * Managed IT related problems for 200+ computers.
 * Added a ticket tracking system to an existing Ruby on Rails inventory system.
 * Helped manage and build Windows and Linux servers
-* Worked on building and maintaining several Ruby on Rails applications.
+* Maintained several Ruby on Rails applications.
+* Created an employee shift management system called Subby.
 
 ### [3M] (http://www.3m.com/) - Quality Control Intern (June 2011 - August 2011)
 * Worked with shipping and manufacturing departments to identify problems and suggest improvements in the processes.
