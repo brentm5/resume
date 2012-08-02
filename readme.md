@@ -9,12 +9,12 @@
 ### [Cvent] (http://www.cvent.com) - Software Engineer (June 2012 - Present)
 * Developed scalable and high-performance service-based web applications with C# and ASP.net MVC in a client oriented market.
 * Worked with mobile technologies to create a mobile platform for existing systems.
-* Creation of reusable libraries and application frameworks.
+* Created reusable libraries and application frameworks.
 
 ### Virginia Tech - Web Programmer / Desktop Technician (October 2010 - May 2012)
-* Managed IT related problems for the entire staff of 40+.
+* Managed IT related problems for 200+ computers.
 * Added a ticket tracking system to an existing Ruby on Rails inventory system.
-* Helped manage servers, which included building Windows and Linux servers from scratch.
+* Helped manage and build Windows and Linux servers
 * Worked on building and maintaining several Ruby on Rails applications.
 
 ### [3M] (http://www.3m.com/) - Quality Control Intern (June 2011 - August 2011)
@@ -25,15 +25,14 @@
 # Projects
 ### Subby (2011)
 An application written for the Virginia Tech Recreational Sports department to manage student employee shifts. 
-* Ruby on Rails application with MySQL written from scratch to replace an old system.
+* Ruby on Rails application with MySQL written from scratch to replace an existing application.
 * Administrative interface for supervisors to create student work schedules.
 * Allowed 100+ student employees to manage shifts and allow other students to trade shifts.
-* Support for different user roles and locations.
-* First full featured Ruby on Rails application that I created.
+* Support for multiple roles and permissions.
 
 ### [Home Monitoring System] (http://www.youtube.com/watch?v=9EKD8FEZsOY) (2011)
-A group project where a team and I created a wireless home monitoring system for an embedded system design class.
-* Designed and implemented a custom PCB board that would allow the user to interact with the home monitoring system.
+A group project to create a wireless home monitoring system for an embedded system design class.
+* Custom designed PCB board to allow a user to interact with the home monitoring system.
 * Allowed for a user to interact with wireless sensor data via capacitive touch buttons and an LCD display.
 * Worked in a group of four for a semester long design project.
 
@@ -41,13 +40,12 @@ A group project where a team and I created a wireless home monitoring system for
 A group research project where we applied [Intel's Wisp Technology] (http://www.seattle.intel-research.net/WISP/) to building integrity
 * Developed a virtual environment using open-simulator that would model real world information.
 * Created a PHP and MySQL web server to process and store real time data.
-* Allowed real world stress to be logged and displayed in a virtual enviroment with visual cues.
+* Allowed real world stress to be logged and displayed in a virtual environment with visual cues.
 
 ### [Mclimans] (http://www.mclimans.com) (2007)
 A website written for a local furniture buisness which has an online inventory system.
 * PHP and MySQL application written from scratch to get a better online presence.
 * Allowed for online inventory to be displayed in an organized manner.
-* First production website that I created.
 
 # Honors
 * Eagle Scout, Boy Scouts of America, Wilmington DE (2008)
