@@ -28,7 +28,7 @@
 An application written for the Virginia Tech Recreational Sports department to manage student employee shifts. 
 * Ruby on Rails application with MySQL written from scratch to replace an existing application.
 * Administrative interface for supervisors to create student work schedules.
-* Allowed 100+ student employees to manage shifts and allow other students to trade shifts.
+* Allowed 500+ student employees to manage shifts and allow other students to trade shifts.
 * Support for multiple roles and permissions.
 
 ### [Home Monitoring System] (http://www.youtube.com/watch?v=9EKD8FEZsOY) (2011)
