@@ -9,14 +9,13 @@
 ### [Cvent] (http://www.cvent.com) - Software Engineer (June 2012 - Present)
 * Developed scalable and high-performance service-based web applications with C# and ASP.net MVC in a client oriented market.
 * Worked with mobile technologies to create a mobile platform for existing systems.
-* Created reusable libraries and application frameworks.
+* Automated developer setup to streamline process.
 
 ### Virginia Tech - Web Programmer / Desktop Technician (October 2010 - May 2012)
 * Managed IT related problems for 200+ computers.
 * Added a ticket tracking system to an existing Ruby on Rails inventory system.
 * Helped manage and build Windows and Linux servers
-* Maintained several Ruby on Rails applications.
-* Created an employee shift management system called Subby.
+* Created a Ruby on Rails application for managing student shifts (see Subby project below)
 
 ### [3M] (http://www.3m.com/) - Quality Control Intern (June 2011 - August 2011)
 * Worked with shipping and manufacturing departments to identify problems and suggest improvements in the processes.
